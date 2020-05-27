@@ -66,7 +66,8 @@ Make sure truffle was installed and input within new directory:
 
 The result is an unboxing of 3 folders (contracts, migrations, test) and file 'truffle-config.js'.
 
-contracs/ and migrations/ already contain a file in each folder. Do not touch!
+contracs/ and migrations/ already contain a file in each folder. 
+Do not touch!
 
 Now, copy the code into the truffle framework.
 
@@ -163,7 +164,7 @@ If the conditions are not met, the program terminates with the following ERROR c
 
 > ERROR: Local log records may have been tampered with.
 
-This is an ambiguous ERROR code and does not differentiate whether the timestamp or hash is wrong, to prevent any malicious tamperers of using this information to their advantage.
+This is an ambiguous error code and does not differentiate whether the timestamp or hash is wrong, to prevent any malicious tamperers of using this information to their advantage.
 
 ---
 
@@ -191,7 +192,7 @@ https://zenodo.org/record/3227177
 
 Liliana Pasquale for providing excellent guidance that was most helpful for project development. Thank you!
 
-The developers of the Ubuntu operating system.
+The Ubuntu operating system.
 
 Charles Babbage.
 
