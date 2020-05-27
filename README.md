@@ -171,17 +171,17 @@ This is an ambiguous ERROR code and does not differentiate whether the timestamp
 
 The data of `Proxifier.log` was provided to us by the Logpai group.
 
+It is a log of the Proxifier software program used by network applications to assist in the use of proxy servers.
+
 It can be found at following link:
 
 https://github.com/logpai/loghub
 
-You may have to scroll down and click Proxifier under **Standalone software** heading.
+Scroll down and click Proxifier under **Standalone software** heading.
 
-Note that data provided here is only a sample version.
+Note: data provided here is only a sample version.
 
-Please follow Zenodo link supplied there to download logs of full size.
-
-Just in case, here is the Zenodo link to download Proxifier log:
+Please follow Zenodo link found there to download logs of full size, also included:
 
 https://zenodo.org/record/3227177
 
@@ -191,7 +191,7 @@ https://zenodo.org/record/3227177
 
 Liliana Pasquale for providing excellent guidance that was most helpful for project development. Thank you!
 
-The developers of the Ubuntu operating system. Cheers.
+The developers of the Ubuntu operating system.
 
 Charles Babbage.
 
