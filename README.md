@@ -167,6 +167,26 @@ This is an ambiguous ERROR code and does not differentiate whether the timestamp
 
 ---
 
+## Data used in project:
+
+The data of `Proxifier.log` was provided to us by the Logpai group.
+
+It can be found at following link:
+
+https://github.com/logpai/loghub
+
+You may have to scroll down and click Proxifier under **Standalone software** heading.
+
+Note that data provided here is only a sample version.
+
+Please follow Zenodo link supplied there to download logs of full size.
+
+Just in case, here is the Zenodo link to download Proxifier log:
+
+https://zenodo.org/record/3227177
+
+---
+
 ## Acknowledgements:
 
 Liliana Pasquale for providing excellent guidance that was most helpful for project development. Thank you!
