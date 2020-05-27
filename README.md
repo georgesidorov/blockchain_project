@@ -41,10 +41,9 @@ and lastly, retrieve log records on the blockchain to compare with local log rec
 2. npm v6.14.5
 3. Truffle v5.1.26
 4. Solidity v0.5.16
-5. Node v12.16.3
-6. Python v3.7.7
-7. pip v20.1.1
-8. OS: Ubuntu 18.04.4 LTS
+5. Python v3.7.7
+6. pip v20.1.1
+7. OS: Ubuntu 18.04.4 LTS
 
 ## Versions of pypi.<span>org packages used:
 1. Web3.<span>py v5.10.0
